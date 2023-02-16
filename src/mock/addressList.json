@@ -1,0 +1,35 @@
+[
+    {
+        "consignee": "泰森",
+        "fullAddress": "广东省广州市",
+        "id": 2192,
+        "isDefault": "1",
+        "phoneNum": "1372962847",
+        "provinceId": "2",
+        "regionId": "1",
+        "userAddress": "广州市",
+        "userId": "2"
+    },
+    {
+        "consignee": "蔡徐琨",
+        "fullAddress": "荔枝省苏珊市",
+        "id": 2193,
+        "isDefault": "0",
+        "phoneNum": "1378888888",
+        "provinceId": "3",
+        "regionId": "5",
+        "userAddress": "苏珊市",
+        "userId": "2"
+    },
+    {
+        "consignee": "特朗普",
+        "fullAddress": "美国白宫",
+        "id": 2194,
+        "isDefault": "0",
+        "phoneNum": "1888888888",
+        "provinceId": "6",
+        "regionId": "2",
+        "userAddress": "白宫",
+        "userId": "2"
+    }
+]
