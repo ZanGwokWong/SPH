@@ -1,4 +1,4 @@
-# vue_cs
+# 尚品汇商城
 
 ## Project setup
 ```
